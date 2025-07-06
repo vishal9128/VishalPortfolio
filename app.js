@@ -32,7 +32,7 @@ downloadBtn.addEventListener("click", () => {
     let resumePath =
         // "https://docs.google.com/document/d/11s-EkENPcg9zxGLj8gFTHBfmWum-Nu8C8w7rwvK-CCs/edit?usp=sharing";
         // "https://docs.google.com/document/d/1eygTjxTOArsHTwVl6k8MH376wUxS6Aze/edit?usp=sharing&ouid=116028834432615488281&rtpof=true&sd=true";
-        "https://docs.google.com/document/d/1hXIS6vbCKCimj5m6SapxX9QssLeSnOAdPtXbCpKKtxQ/edit?tab=t.0"
+        "https://drive.google.com/file/d/10u1QfLqRE69SyYtcosBu31o7NhyL209Y/view?usp=drive_link"
     window.location.href = resumePath;
 });
 const prevBtn = document.querySelector("#prev-btn");
